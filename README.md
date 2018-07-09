@@ -7,4 +7,4 @@ This repository uses the Jupyter Notebook enviroment to display equations and co
 ## Citation
 If you reference this content, please cite:
 
-Garcia, P. 2017. Prediction Algorithms. Github repository. https://github.com/paulaux/prediction-algorithms
+Paula Conn. 2018. Prediction Algorithms. Github repository. https://github.com/paulaconn/prediction-algorithms
